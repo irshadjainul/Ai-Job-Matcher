@@ -2,7 +2,7 @@ import axios from "axios"
 
 
 const api = axios.create({
-    baseURL: "http://ai-job-matcher-04-api",
+    baseURL: "https://ai-job-matcher-04-api",
     withCredentials: true
 })
 
